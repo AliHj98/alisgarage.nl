@@ -24,13 +24,11 @@
     <link href="https://cdn.jsdelivr.net/npm/tempusdominus-bootstrap-4@5.39.2/build/css/tempusdominus-bootstrap-4.min.css" rel="stylesheet" />
 
     <!-- Customized Bootstrap Stylesheet -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-
-    <!-- Template Stylesheet -->
-    <link href="css/style.css" rel="stylesheet">
-    <script src="jquery-3.7.1.min.js"></script>
-    <link href="css/mobiscroll.jquery.min.css" rel="stylesheet" />
-    <script src="js/mobiscroll.jquery.min.js"></script>
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
+    <link href="../css/style.css" rel="stylesheet">
+    <script src="../js/jquery-3.7.1.min.js"></script>
+    <link href="../css/mobiscroll.jquery.min.css" rel="stylesheet" />
+    <script src="../js/mobiscroll.jquery.min.js"></script>
     <style>
     /* Standardize slider image dimensions */
     .product-image-slider img {

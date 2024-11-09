@@ -8,10 +8,10 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav ms-auto p-4 p-lg-0">
-                <a href="index.php" class="nav-item nav-link active">Home</a>
-                <a href="stock.php" class="nav-item nav-link">Stock</a>
-                <a href="about.php" class="nav-item nav-link">About</a>
-                <a href="service.php" class="nav-item nav-link">Services</a>
+                <a href="/index.php" class="nav-item nav-link active">Home</a>
+                <a href="/stock.php" class="nav-item nav-link">Stock</a>
+                <a href="/about.php" class="nav-item nav-link">About</a>
+                <a href="/service.php" class="nav-item nav-link">Services</a>
                 <div class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
                     <div class="dropdown-menu fade-up m-0">
