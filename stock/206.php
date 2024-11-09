@@ -16,7 +16,7 @@
     <?php require_once('../reuse/nav.php'); ?>
 
     <!-- Page Header Start -->
-    <div class="container-fluid page-header mb-5 p-0" style="background-image: url(../img/206.1.jpeg);">
+    <div class="container-fluid page-header mb-5 p-0" style="background-image: url(../img/206/206.2.jpeg);">
         <div class="container-fluid page-header-inner py-5">
             <div class="container text-center">
                 <h1 class="display-3 text-white mb-3 animated slideInDown">Product Details</h1>
@@ -39,16 +39,16 @@
             <div class="col-lg-6">
                 <!-- Large Main Image -->
                 <div class="product-main-image mb-4">
-                    <img id="main-image" src="../img/206.1.jpeg" alt="Peugeot 206 Cabrio" class="img-fluid">
+                    <img id="main-image" src="../img/206/206.1.jpeg" alt="Peugeot 206 Cabrio" class="img-fluid">
                 </div>
 
                 <!-- Image Slider for Additional Images -->
                 <div class="product-image-slider owl-carousel owl-theme">
-                    <img src="../img/206.1.jpeg" alt="Image 1" class="img-fluid slider-image">
-                    <img src="../img/206.2.jpeg" alt="Image 2" class="img-fluid slider-image">
-                    <img src="../img/206.3.jpeg" alt="Image 3" class="img-fluid slider-image">
-                    <img src="../img/206.4.jpeg" alt="Image 4" class="img-fluid slider-image">
-                    <img src="../img/206.5.jpeg" alt="Image 5" class="img-fluid slider-image">
+                    <img src="../img/206/206.1.jpeg" alt="Image 1" class="img-fluid slider-image">
+                    <img src="../img/206/206.2.jpeg" alt="Image 2" class="img-fluid slider-image">
+                    <img src="../img/206/206.3.jpeg" alt="Image 3" class="img-fluid slider-image">
+                    <img src="../img/206/206.4.jpeg" alt="Image 4" class="img-fluid slider-image">
+                    <img src="../img/206/206.5.jpeg" alt="Image 5" class="img-fluid slider-image">
                 </div>
             </div>
 

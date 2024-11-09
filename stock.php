@@ -47,7 +47,7 @@
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item">
                         <div class="position-relative overflow-hidden">
-                            <img class="img-fluid" src="img/206.4.jpeg" alt="">
+                            <img class="img-fluid" src="img/206/206.4.jpeg" alt="">
                             <div class="position-absolute start-0 top-0 w-100 h-100">
                                 <a class="btn btn-square start-0 top-0 w-100 h-100" href="stock/206.php"></a>
                             </div>
@@ -61,7 +61,7 @@
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="team-item">
                         <div class="position-relative overflow-hidden">
-                            <img class="img-fluid" src="img/quad2.jpeg" alt="">
+                            <img class="img-fluid" src="img/quad/quad2.jpeg" alt="">
                             <div class="position-absolute start-0 top-0 w-100 h-100">
                                 <a class="btn btn-square start-0 top-0 w-100 h-100" href="stock/quad.php"></a>
                             </div>
@@ -75,11 +75,9 @@
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="team-item">
                         <div class="position-relative overflow-hidden">
-                            <img class="img-fluid" src="img/kx125.jpeg" alt="">
-                            <div class="team-overlay position-absolute start-0 top-0 w-100 h-100">
-                                <a class="btn btn-square mx-1" href=""><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square mx-1" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square mx-1" href=""><i class="fab fa-instagram"></i></a>
+                            <img class="img-fluid" src="img/kx125/kx125.jpeg" alt="">
+                            <div class="position-absolute start-0 top-0 w-100 h-100">
+                                <a class="btn btn-square start-0 top-0 w-100 h-100" href="stock/kx125.php"></a>
                             </div>
                         </div>
                         <div class="bg-light text-center p-4">
@@ -91,11 +89,9 @@
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
                     <div class="team-item">
                         <div class="position-relative overflow-hidden">
-                            <img class="img-fluid" src="img/audi1.1.jpeg" alt="">
-                            <div class="team-overlay position-absolute start-0 top-0 w-100 h-100">
-                                <a class="btn btn-square mx-1" href=""><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square mx-1" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square mx-1" href=""><i class="fab fa-instagram"></i></a>
+                            <img class="img-fluid" src="img/audi/audi1.4.jpeg" alt="">
+                            <div class="position-absolute start-0 top-0 w-100 h-100">
+                                <a class="btn btn-square start-0 top-0 w-100 h-100" href="stock/audi.php"></a>
                             </div>
                         </div>
                         <div class="bg-light text-center p-4">
@@ -107,11 +103,9 @@
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item">
                         <div class="position-relative overflow-hidden">
-                            <img class="img-fluid" src="img/alfa1.1.jpeg" alt="">
-                            <div class="team-overlay position-absolute start-0 top-0 w-100 h-100">
-                                <a class="btn btn-square mx-1" href=""><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square mx-1" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square mx-1" href=""><i class="fab fa-instagram"></i></a>
+                            <img class="img-fluid" src="img/alfa1/alfa1.1.jpeg" alt="">
+                            <div class="position-absolute start-0 top-0 w-100 h-100">
+                                <a class="btn btn-square start-0 top-0 w-100 h-100" href="stock/alfa1.php"></a>
                             </div>
                         </div>
                         <div class="bg-light text-center p-4">
@@ -123,11 +117,9 @@
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="team-item">
                         <div class="position-relative overflow-hidden">
-                            <img class="img-fluid" src="img/alfa2.1.jpeg" alt="">
-                            <div class="team-overlay position-absolute start-0 top-0 w-100 h-100">
-                                <a class="btn btn-square mx-1" href=""><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square mx-1" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square mx-1" href=""><i class="fab fa-instagram"></i></a>
+                            <img class="img-fluid" src="img/alfa2/alfa2.2.jpeg" alt="">
+                            <div class="position-absolute start-0 top-0 w-100 h-100">
+                                <a class="btn btn-square start-0 top-0 w-100 h-100" href="stock/alfa2.php"></a>
                             </div>
                         </div>
                         <div class="bg-light text-center p-4">
@@ -139,11 +131,9 @@
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="team-item">
                         <div class="position-relative overflow-hidden">
-                            <img class="img-fluid" src="img/bmw1.2.jpeg" alt="">
-                            <div class="team-overlay position-absolute start-0 top-0 w-100 h-100">
-                                <a class="btn btn-square mx-1" href=""><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square mx-1" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square mx-1" href=""><i class="fab fa-instagram"></i></a>
+                            <img class="img-fluid" src="img/318/318.6.jpeg" alt="">
+                            <div class="position-absolute start-0 top-0 w-100 h-100">
+                                <a class="btn btn-square start-0 top-0 w-100 h-100" href="stock/318.php"></a>
                             </div>
                         </div>
                         <div class="bg-light text-center p-4">
@@ -155,11 +145,9 @@
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
                     <div class="team-item">
                         <div class="position-relative overflow-hidden">
-                            <img class="img-fluid" src="img/bmw2.1.jpeg" alt="">
-                            <div class="team-overlay position-absolute start-0 top-0 w-100 h-100">
-                                <a class="btn btn-square mx-1" href=""><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-square mx-1" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-square mx-1" href=""><i class="fab fa-instagram"></i></a>
+                            <img class="img-fluid" src="img/320/320.19.jpeg" alt="">
+                            <div class="position-absolute start-0 top-0 w-100 h-100">
+                                <a class="btn btn-square start-0 top-0 w-100 h-100" href="stock/320.php"></a>
                             </div>
                         </div>
                         <div class="bg-light text-center p-4">

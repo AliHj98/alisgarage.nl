@@ -16,7 +16,7 @@
     <?php require_once('../reuse/nav.php'); ?>
 
     <!-- Page Header Start -->
-    <div class="container-fluid page-header mb-5 p-0" style="background-image: url(../img/quad/quad2.jpeg);">
+    <div class="container-fluid page-header mb-5 p-0" style="background-image: url(../img/alfa2/alfa2.1.jpeg);">
         <div class="container-fluid page-header-inner py-5">
             <div class="container text-center">
                 <h1 class="display-3 text-white mb-3 animated slideInDown">Product Details</h1>
@@ -24,7 +24,7 @@
                     <ol class="breadcrumb justify-content-center text-uppercase">
                         <li class="breadcrumb-item"><a href="#">Home</a></li>
                         <li class="breadcrumb-item"><a href="#">Products</a></li>
-                        <li class="breadcrumb-item text-white active" aria-current="page">Yamaha Raptor 350</li>
+                        <li class="breadcrumb-item text-white active" aria-current="page">Alfa Romeo 159 1.9 JTDm</li>
                     </ol>
                 </nav>
             </div>
@@ -39,38 +39,45 @@
             <div class="col-lg-6">
                 <!-- Large Main Image -->
                 <div class="product-main-image mb-4">
-                    <img id="main-image" src="../img/quad/quad2.jpeg" alt="Yamaha Raptor 350" class="img-fluid">
+                    <img id="main-image" src="../img/alfa2/alfa2.1.jpeg" alt="Alfa Romeo 159 1.9 JTDm" class="img-fluid">
                 </div>
 
                 <!-- Image Slider for Additional Images -->
                 <div class="product-image-slider owl-carousel owl-theme">
-                    <img src="../img/quad/quad.jpeg" alt="Image 1" class="img-fluid slider-image">
-                    <img src="../img/quad/quad2.jpeg" alt="Image 2" class="img-fluid slider-image">
+                    <img src="../img/alfa2/alfa2.2.jpeg" alt="Image 1" class="img-fluid slider-image">
+                    <img src="../img/alfa2/alfa2.3.jpeg" alt="Image 2" class="img-fluid slider-image">
+                    <img src="../img/alfa2/alfa2.4.jpeg" alt="Image 3" class="img-fluid slider-image">
+                    <img src="../img/alfa2/alfa2.5.jpeg" alt="Image 4" class="img-fluid slider-image">
+                    <img src="../img/alfa2/alfa2.6.jpeg" alt="Image 5" class="img-fluid slider-image">
+                    <img src="../img/alfa2/alfa2.7.jpeg" alt="Image 6" class="img-fluid slider-image">
+                    <img src="../img/alfa2/alfa2.8.jpeg" alt="Image 7" class="img-fluid slider-image">
+                    <img src="../img/alfa2/alfa2.9.jpeg" alt="Image 8" class="img-fluid slider-image">
                 </div>
             </div>
 
             <!-- Product Details -->
             <div class="col-lg-6">
-                <h2 class="product-title">Yamaha Raptor 350</h2>
-                <p class="product-price fw-bold">3500€</p>
+                <h2 class="product-title">Alfa Romeo 159 1.9 JTDm</h2>
+                <p class="product-price fw-bold">7000€</p>
 
                 <p class="product-description">
-                    Discover the **Yamaha Raptor 350**, an ATV designed for both beginners and experienced riders.
-                    With its 350cc engine, it offers excellent power and handling for off-road adventures. The Raptor 350
-                    is built for reliability and durability, featuring a lightweight frame and superior suspension to tackle any terrain.
-                    Whether you’re exploring trails or conquering challenging obstacles, the Yamaha Raptor 350 provides a smooth and thrilling ride.
+                    The **Alfa Romeo 159 1.9 JTDm** is a compact executive car that combines Italian style with impressive 
+                    performance. Powered by the 1.9-liter JTDm diesel engine, it offers excellent fuel efficiency and robust 
+                    power delivery, making it ideal for both urban and long-distance driving. The 159 features a sophisticated 
+                    and sporty design with a refined interior, ensuring comfort and elegance on every journey. With its agile handling
+                    and distinctive looks, the Alfa Romeo 159 1.9 JTDm is a true driver's car.
                 </p>
 
                 <h5>Specifications</h5>
                 <ul class="product-specifications">
-                    <li><strong>Engine:</strong> 350cc 4-stroke, air-cooled</li>
-                    <li><strong>Power:</strong> 28 HP at 6,500 RPM</li>
-                    <li><strong>Transmission:</strong> 5-speed manual</li>
-                    <li><strong>Fuel Efficiency:</strong> 7.5 L/100km combined</li>
-                    <li><strong>Top Speed:</strong> 125 km/h</li>
-                    <li><strong>Seats:</strong> 1</li>
-                    <li><strong>Weight:</strong> 200 kg</li>
-                    <li><strong>Color Options:</strong> Blue, Red, Black</li>
+                    <li><strong>Engine:</strong> 1.9L JTDm Inline-4 Diesel</li>
+                    <li><strong>Power:</strong> 150 HP at 4,000 RPM</li>
+                    <li><strong>Transmission:</strong> 6-speed manual</li>
+                    <li><strong>Fuel Efficiency:</strong> 5.5 L/100km combined</li>
+                    <li><strong>Top Speed:</strong> 215 km/h</li>
+                    <li><strong>Seats:</strong> 5</li>
+                    <li><strong>Weight:</strong> 1450 kg</li>
+                    <li><strong>Color Options:</strong> Red, Black, Silver</li>
                 </ul>
 
                 <!-- Buy/Reserve Button -->

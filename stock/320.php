@@ -16,7 +16,7 @@
     <?php require_once('../reuse/nav.php'); ?>
 
     <!-- Page Header Start -->
-    <div class="container-fluid page-header mb-5 p-0" style="background-image: url(../img/quad/quad2.jpeg);">
+    <div class="container-fluid page-header mb-5 p-0" style="background-image: url(../img/320/320.1.jpeg);">
         <div class="container-fluid page-header-inner py-5">
             <div class="container text-center">
                 <h1 class="display-3 text-white mb-3 animated slideInDown">Product Details</h1>
@@ -24,7 +24,7 @@
                     <ol class="breadcrumb justify-content-center text-uppercase">
                         <li class="breadcrumb-item"><a href="#">Home</a></li>
                         <li class="breadcrumb-item"><a href="#">Products</a></li>
-                        <li class="breadcrumb-item text-white active" aria-current="page">Yamaha Raptor 350</li>
+                        <li class="breadcrumb-item text-white active" aria-current="page">BMW E46 320 M52TUB</li>
                     </ol>
                 </nav>
             </div>
@@ -39,38 +39,43 @@
             <div class="col-lg-6">
                 <!-- Large Main Image -->
                 <div class="product-main-image mb-4">
-                    <img id="main-image" src="../img/quad/quad2.jpeg" alt="Yamaha Raptor 350" class="img-fluid">
+                    <img id="main-image" src="../img/320/320.1.jpeg" alt="BMW E46 320 M52TUB" class="img-fluid">
                 </div>
 
                 <!-- Image Slider for Additional Images -->
                 <div class="product-image-slider owl-carousel owl-theme">
-                    <img src="../img/quad/quad.jpeg" alt="Image 1" class="img-fluid slider-image">
-                    <img src="../img/quad/quad2.jpeg" alt="Image 2" class="img-fluid slider-image">
+                    <!-- Image 1 to 30 -->
+                    <?php
+                    for ($i = 1; $i <= 20; $i++) {
+                        $imagePath = "../img/320/320." . $i . ".jpeg";
+                        echo "<img src=\"$imagePath\" alt=\"Image $i\" class=\"img-fluid slider-image\">";
+                    }
+                    ?>
                 </div>
             </div>
 
             <!-- Product Details -->
             <div class="col-lg-6">
-                <h2 class="product-title">Yamaha Raptor 350</h2>
-                <p class="product-price fw-bold">3500€</p>
+                <h2 class="product-title">BMW E46 320 M52TUB</h2>
+                <p class="product-price fw-bold">6000€</p>
 
                 <p class="product-description">
-                    Discover the **Yamaha Raptor 350**, an ATV designed for both beginners and experienced riders.
-                    With its 350cc engine, it offers excellent power and handling for off-road adventures. The Raptor 350
-                    is built for reliability and durability, featuring a lightweight frame and superior suspension to tackle any terrain.
-                    Whether you’re exploring trails or conquering challenging obstacles, the Yamaha Raptor 350 provides a smooth and thrilling ride.
+                    The **BMW E46 320 M52TUB** is a refined luxury sedan that combines sporty dynamics with everyday usability. 
+                    Powered by the 2.2L M52TUB inline-six engine, it delivers smooth power and impressive performance, ideal for 
+                    both city driving and open highways. With its timeless BMW design, comfortable ride, and top-tier interior, 
+                    the E46 320 M52TUB stands out as a perfect blend of performance, luxury, and reliability.
                 </p>
 
                 <h5>Specifications</h5>
                 <ul class="product-specifications">
-                    <li><strong>Engine:</strong> 350cc 4-stroke, air-cooled</li>
-                    <li><strong>Power:</strong> 28 HP at 6,500 RPM</li>
+                    <li><strong>Engine:</strong> 2.2L M52TUB Inline-6</li>
+                    <li><strong>Power:</strong> 170 HP at 5,500 RPM</li>
                     <li><strong>Transmission:</strong> 5-speed manual</li>
-                    <li><strong>Fuel Efficiency:</strong> 7.5 L/100km combined</li>
-                    <li><strong>Top Speed:</strong> 125 km/h</li>
-                    <li><strong>Seats:</strong> 1</li>
-                    <li><strong>Weight:</strong> 200 kg</li>
-                    <li><strong>Color Options:</strong> Blue, Red, Black</li>
+                    <li><strong>Fuel Efficiency:</strong> 9.0 L/100km combined</li>
+                    <li><strong>Top Speed:</strong> 230 km/h</li>
+                    <li><strong>Seats:</strong> 5</li>
+                    <li><strong>Weight:</strong> 1500 kg</li>
+                    <li><strong>Color Options:</strong> Silver, Black, Blue</li>
                 </ul>
 
                 <!-- Buy/Reserve Button -->

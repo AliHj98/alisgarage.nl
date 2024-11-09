@@ -16,7 +16,7 @@
     <?php require_once('../reuse/nav.php'); ?>
 
     <!-- Page Header Start -->
-    <div class="container-fluid page-header mb-5 p-0" style="background-image: url(../img/quad/quad2.jpeg);">
+    <div class="container-fluid page-header mb-5 p-0" style="background-image: url(../img/audi/audi1.6.jpeg);">
         <div class="container-fluid page-header-inner py-5">
             <div class="container text-center">
                 <h1 class="display-3 text-white mb-3 animated slideInDown">Product Details</h1>
@@ -24,7 +24,7 @@
                     <ol class="breadcrumb justify-content-center text-uppercase">
                         <li class="breadcrumb-item"><a href="#">Home</a></li>
                         <li class="breadcrumb-item"><a href="#">Products</a></li>
-                        <li class="breadcrumb-item text-white active" aria-current="page">Yamaha Raptor 350</li>
+                        <li class="breadcrumb-item text-white active" aria-current="page">Audi A3 2.0 FSI 2003</li>
                     </ol>
                 </nav>
             </div>
@@ -39,38 +39,42 @@
             <div class="col-lg-6">
                 <!-- Large Main Image -->
                 <div class="product-main-image mb-4">
-                    <img id="main-image" src="../img/quad/quad2.jpeg" alt="Yamaha Raptor 350" class="img-fluid">
+                    <img id="main-image" src="../img/audi/audi1.1.jpeg" alt="Audi A3 2.0 FSI 2003" class="img-fluid">
                 </div>
 
                 <!-- Image Slider for Additional Images -->
                 <div class="product-image-slider owl-carousel owl-theme">
-                    <img src="../img/quad/quad.jpeg" alt="Image 1" class="img-fluid slider-image">
-                    <img src="../img/quad/quad2.jpeg" alt="Image 2" class="img-fluid slider-image">
+                    <img src="../img/audi/audi1.1.jpeg" alt="Image 1" class="img-fluid slider-image">
+                    <img src="../img/audi/audi1.2.jpeg" alt="Image 2" class="img-fluid slider-image">
+                    <img src="../img/audi/audi1.3.jpeg" alt="Image 3" class="img-fluid slider-image">
+                    <img src="../img/audi/audi1.4.jpeg" alt="Image 4" class="img-fluid slider-image">
+                    <img src="../img/audi/audi1.5.jpeg" alt="Image 5" class="img-fluid slider-image">
+                    <img src="../img/audi/audi1.6.jpeg" alt="Image 6" class="img-fluid slider-image">
                 </div>
             </div>
 
             <!-- Product Details -->
             <div class="col-lg-6">
-                <h2 class="product-title">Yamaha Raptor 350</h2>
-                <p class="product-price fw-bold">3500€</p>
+                <h2 class="product-title">Audi A3 2.0 FSI 2003</h2>
+                <p class="product-price fw-bold">4000€</p>
 
                 <p class="product-description">
-                    Discover the **Yamaha Raptor 350**, an ATV designed for both beginners and experienced riders.
-                    With its 350cc engine, it offers excellent power and handling for off-road adventures. The Raptor 350
-                    is built for reliability and durability, featuring a lightweight frame and superior suspension to tackle any terrain.
-                    Whether you’re exploring trails or conquering challenging obstacles, the Yamaha Raptor 350 provides a smooth and thrilling ride.
+                    The **Audi A3 2.0 FSI 2003** is a compact luxury hatchback that blends high performance with comfort and efficiency. 
+                    Featuring a 2.0L FSI engine, it offers impressive fuel efficiency while delivering 150 horsepower, providing smooth acceleration and strong highway performance. 
+                    The A3 is renowned for its build quality, refined interior, and excellent handling, making it an ideal choice for those who want a practical yet stylish car. 
+                    With a spacious interior, advanced safety features, and a sleek design, the Audi A3 2.0 FSI is perfect for daily commuting or long drives.
                 </p>
 
                 <h5>Specifications</h5>
                 <ul class="product-specifications">
-                    <li><strong>Engine:</strong> 350cc 4-stroke, air-cooled</li>
-                    <li><strong>Power:</strong> 28 HP at 6,500 RPM</li>
-                    <li><strong>Transmission:</strong> 5-speed manual</li>
-                    <li><strong>Fuel Efficiency:</strong> 7.5 L/100km combined</li>
-                    <li><strong>Top Speed:</strong> 125 km/h</li>
-                    <li><strong>Seats:</strong> 1</li>
-                    <li><strong>Weight:</strong> 200 kg</li>
-                    <li><strong>Color Options:</strong> Blue, Red, Black</li>
+                    <li><strong>Engine:</strong> 2.0L FSI Inline-4</li>
+                    <li><strong>Power:</strong> 150 HP at 6000 RPM</li>
+                    <li><strong>Transmission:</strong> 5-speed manual or 6-speed automatic</li>
+                    <li><strong>Fuel Efficiency:</strong> 7.1 L/100 km (combined)</li>
+                    <li><strong>Top Speed:</strong> 220 km/h</li>
+                    <li><strong>Acceleration (0-100 km/h):</strong> 8.5 seconds</li>
+                    <li><strong>Weight:</strong> 1300 kg</li>
+                    <li><strong>Color Options:</strong> Silver, Black, Blue</li>
                 </ul>
 
                 <!-- Buy/Reserve Button -->

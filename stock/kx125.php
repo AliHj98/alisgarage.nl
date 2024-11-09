@@ -16,7 +16,7 @@
     <?php require_once('../reuse/nav.php'); ?>
 
     <!-- Page Header Start -->
-    <div class="container-fluid page-header mb-5 p-0" style="background-image: url(../img/quad/quad2.jpeg);">
+    <div class="container-fluid page-header mb-5 p-0" style="background-image: url(../img/kx125/kx125.4.jpeg);">
         <div class="container-fluid page-header-inner py-5">
             <div class="container text-center">
                 <h1 class="display-3 text-white mb-3 animated slideInDown">Product Details</h1>
@@ -24,7 +24,7 @@
                     <ol class="breadcrumb justify-content-center text-uppercase">
                         <li class="breadcrumb-item"><a href="#">Home</a></li>
                         <li class="breadcrumb-item"><a href="#">Products</a></li>
-                        <li class="breadcrumb-item text-white active" aria-current="page">Yamaha Raptor 350</li>
+                        <li class="breadcrumb-item text-white active" aria-current="page">Kawasaki KX125 2002</li>
                     </ol>
                 </nav>
             </div>
@@ -39,38 +39,41 @@
             <div class="col-lg-6">
                 <!-- Large Main Image -->
                 <div class="product-main-image mb-4">
-                    <img id="main-image" src="../img/quad/quad2.jpeg" alt="Yamaha Raptor 350" class="img-fluid">
+                    <img id="main-image" src="../img/kx125/kx125.jpeg" alt="Kawasaki KX125 2002" class="img-fluid">
                 </div>
 
                 <!-- Image Slider for Additional Images -->
                 <div class="product-image-slider owl-carousel owl-theme">
-                    <img src="../img/quad/quad.jpeg" alt="Image 1" class="img-fluid slider-image">
-                    <img src="../img/quad/quad2.jpeg" alt="Image 2" class="img-fluid slider-image">
+                    <img src="../img/kx125/kx125.jpeg" alt="Image 1" class="img-fluid slider-image">
+                    <img src="../img/kx125/kx125.1.jpeg" alt="Image 2" class="img-fluid slider-image">
+                    <img src="../img/kx125/kx125.2.jpeg" alt="Image 3" class="img-fluid slider-image">
+                    <img src="../img/kx125/kx125.3.jpeg" alt="Image 4" class="img-fluid slider-image"><img src="../img/kx125/kx125.jpeg" alt="Image 1" class="img-fluid slider-image">
+                    <img src="../img/kx125/kx125.4.jpeg" alt="Image 5" class="img-fluid slider-image">
                 </div>
             </div>
 
             <!-- Product Details -->
             <div class="col-lg-6">
-                <h2 class="product-title">Yamaha Raptor 350</h2>
-                <p class="product-price fw-bold">3500€</p>
+                <h2 class="product-title">Kawasaki KX125 2002</h2>
+                <p class="product-price fw-bold">2500€</p>
 
                 <p class="product-description">
-                    Discover the **Yamaha Raptor 350**, an ATV designed for both beginners and experienced riders.
-                    With its 350cc engine, it offers excellent power and handling for off-road adventures. The Raptor 350
-                    is built for reliability and durability, featuring a lightweight frame and superior suspension to tackle any terrain.
-                    Whether you’re exploring trails or conquering challenging obstacles, the Yamaha Raptor 350 provides a smooth and thrilling ride.
+                    The **Kawasaki KX125 2002** is a high-performance dirt bike built for riders who crave power and agility on the track. 
+                    With a 125cc 2-stroke engine, this bike delivers an aggressive powerband, allowing for quick acceleration and incredible top-end speed. 
+                    The KX125 features a lightweight, race-inspired chassis that is perfect for motocross enthusiasts and competitive riders. 
+                    The suspension system provides excellent handling and stability, making it ideal for tackling jumps, rough terrain, and tight corners.
                 </p>
 
                 <h5>Specifications</h5>
                 <ul class="product-specifications">
-                    <li><strong>Engine:</strong> 350cc 4-stroke, air-cooled</li>
-                    <li><strong>Power:</strong> 28 HP at 6,500 RPM</li>
-                    <li><strong>Transmission:</strong> 5-speed manual</li>
-                    <li><strong>Fuel Efficiency:</strong> 7.5 L/100km combined</li>
-                    <li><strong>Top Speed:</strong> 125 km/h</li>
-                    <li><strong>Seats:</strong> 1</li>
-                    <li><strong>Weight:</strong> 200 kg</li>
-                    <li><strong>Color Options:</strong> Blue, Red, Black</li>
+                    <li><strong>Engine:</strong> 125cc 2-stroke, liquid-cooled</li>
+                    <li><strong>Power:</strong> 39 HP</li>
+                    <li><strong>Transmission:</strong> 6-speed manual</li>
+                    <li><strong>Fuel Efficiency:</strong> 10-12 L/100km</li>
+                    <li><strong>Top Speed:</strong> 115 km/h</li>
+                    <li><strong>Seat Height:</strong> 950 mm</li>
+                    <li><strong>Weight:</strong> 98 kg</li>
+                    <li><strong>Color Options:</strong> Green, White</li>
                 </ul>
 
                 <!-- Buy/Reserve Button -->

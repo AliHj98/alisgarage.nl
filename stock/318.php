@@ -16,7 +16,7 @@
     <?php require_once('../reuse/nav.php'); ?>
 
     <!-- Page Header Start -->
-    <div class="container-fluid page-header mb-5 p-0" style="background-image: url(../img/quad/quad2.jpeg);">
+    <div class="container-fluid page-header mb-5 p-0" style="background-image: url(../img/318/318.1.jpeg);">
         <div class="container-fluid page-header-inner py-5">
             <div class="container text-center">
                 <h1 class="display-3 text-white mb-3 animated slideInDown">Product Details</h1>
@@ -24,7 +24,7 @@
                     <ol class="breadcrumb justify-content-center text-uppercase">
                         <li class="breadcrumb-item"><a href="#">Home</a></li>
                         <li class="breadcrumb-item"><a href="#">Products</a></li>
-                        <li class="breadcrumb-item text-white active" aria-current="page">Yamaha Raptor 350</li>
+                        <li class="breadcrumb-item text-white active" aria-current="page">BMW E46 N42B20 2003</li>
                     </ol>
                 </nav>
             </div>
@@ -39,38 +39,43 @@
             <div class="col-lg-6">
                 <!-- Large Main Image -->
                 <div class="product-main-image mb-4">
-                    <img id="main-image" src="../img/quad/quad2.jpeg" alt="Yamaha Raptor 350" class="img-fluid">
+                    <img id="main-image" src="../img/318/318.6.jpeg" alt="BMW E46 N42B20 2003" class="img-fluid">
                 </div>
 
                 <!-- Image Slider for Additional Images -->
                 <div class="product-image-slider owl-carousel owl-theme">
-                    <img src="../img/quad/quad.jpeg" alt="Image 1" class="img-fluid slider-image">
-                    <img src="../img/quad/quad2.jpeg" alt="Image 2" class="img-fluid slider-image">
+                    <img src="../img/318/318.1.jpeg" alt="Image 1" class="img-fluid slider-image">
+                    <img src="../img/318/318.2.jpeg" alt="Image 2" class="img-fluid slider-image">
+                    <img src="../img/318/318.3.jpeg" alt="Image 3" class="img-fluid slider-image">
+                    <img src="../img/318/318.4.jpeg" alt="Image 4" class="img-fluid slider-image">
+                    <img src="../img/318/318.5.jpeg" alt="Image 5" class="img-fluid slider-image">
+                    <img src="../img/318/318.6.jpeg" alt="Image 6" class="img-fluid slider-image">
+                    <img src="../img/318/318.7.jpeg" alt="Image 7" class="img-fluid slider-image">
                 </div>
             </div>
 
             <!-- Product Details -->
             <div class="col-lg-6">
-                <h2 class="product-title">Yamaha Raptor 350</h2>
-                <p class="product-price fw-bold">3500€</p>
+                <h2 class="product-title">BMW E46 N42B20 2003</h2>
+                <p class="product-price fw-bold">7,500€</p>
 
                 <p class="product-description">
-                    Discover the **Yamaha Raptor 350**, an ATV designed for both beginners and experienced riders.
-                    With its 350cc engine, it offers excellent power and handling for off-road adventures. The Raptor 350
-                    is built for reliability and durability, featuring a lightweight frame and superior suspension to tackle any terrain.
-                    Whether you’re exploring trails or conquering challenging obstacles, the Yamaha Raptor 350 provides a smooth and thrilling ride.
+                    The **BMW E46 N42B20 2003** is a classic luxury compact sedan offering exceptional performance, advanced technology, and premium features. 
+                    Powered by a 2.0L inline-4 engine (N42B20), this vehicle provides an impressive 143 horsepower and smooth acceleration, delivering a driving experience that's both dynamic and comfortable.
+                    Renowned for its sporty handling, high-quality interior materials, and build quality, the E46 is a symbol of BMW engineering excellence. 
+                    Whether you're cruising through the city or on a long highway trip, the BMW E46 offers a refined and stylish ride.
                 </p>
 
                 <h5>Specifications</h5>
                 <ul class="product-specifications">
-                    <li><strong>Engine:</strong> 350cc 4-stroke, air-cooled</li>
-                    <li><strong>Power:</strong> 28 HP at 6,500 RPM</li>
-                    <li><strong>Transmission:</strong> 5-speed manual</li>
-                    <li><strong>Fuel Efficiency:</strong> 7.5 L/100km combined</li>
-                    <li><strong>Top Speed:</strong> 125 km/h</li>
-                    <li><strong>Seats:</strong> 1</li>
-                    <li><strong>Weight:</strong> 200 kg</li>
-                    <li><strong>Color Options:</strong> Blue, Red, Black</li>
+                    <li><strong>Engine:</strong> 2.0L Inline-4 N42B20</li>
+                    <li><strong>Power:</strong> 143 HP at 6,000 RPM</li>
+                    <li><strong>Transmission:</strong> 5-speed manual or 6-speed automatic</li>
+                    <li><strong>Fuel Efficiency:</strong> 8.0 L/100 km combined</li>
+                    <li><strong>Top Speed:</strong> 215 km/h</li>
+                    <li><strong>Acceleration (0-100 km/h):</strong> 9.1 seconds</li>
+                    <li><strong>Weight:</strong> 1,400 kg</li>
+                    <li><strong>Color Options:</strong> Silver, Black, Blue, White</li>
                 </ul>
 
                 <!-- Buy/Reserve Button -->
