@@ -39,7 +39,7 @@
             <div class="col-lg-6">
                 <!-- Large Main Image -->
                 <div class="product-main-image mb-4">
-                    <img id="main-image" src="img/quad2.jpeg" alt="Yamaha Raptor 350" class="img-fluid">
+                    <img id="main-image" src="../img/quad2.jpeg" alt="Yamaha Raptor 350" class="img-fluid">
                 </div>
 
                 <!-- Image Slider for Additional Images -->
