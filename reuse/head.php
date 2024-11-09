@@ -31,4 +31,19 @@
     <script src="jquery-3.7.1.min.js"></script>
     <link href="css/mobiscroll.jquery.min.css" rel="stylesheet" />
     <script src="js/mobiscroll.jquery.min.js"></script>
+    <style>
+    /* Standardize slider image dimensions */
+    .product-image-slider img {
+        height: 200px; /* Adjust to desired height */
+        width: 100%; /* Make image fill the width of the container */
+        object-fit: cover; /* Ensures the image fills the container without distortion */
+        border-radius: 8px; /* Optional: adds rounded corners */
+    }
+
+    /* Optional: Space between images in the carousel */
+    .product-image-slider .owl-item {
+        padding: 5px;
+    }
+</style>
+
 </head>
