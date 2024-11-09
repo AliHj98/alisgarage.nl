@@ -63,7 +63,7 @@
                         <div class="position-relative overflow-hidden">
                             <img class="img-fluid" src="img/quad2.jpeg" alt="">
                             <div class="position-absolute start-0 top-0 w-100 h-100">
-                                <a class="btn btn-square start-0 top-0 w-100 h-100" href="about.php"></a>
+                                <a class="btn btn-square start-0 top-0 w-100 h-100" href="quad.php"></a>
                             </div>
                         </div>
                         <div class="bg-light text-center p-4">
